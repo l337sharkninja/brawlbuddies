@@ -1,0 +1,46 @@
+BrawlKing Classic
+
+//index//
+buttons for: tournament day/things to know/sponsors/other tournaments and events
+
+Things to know before signing up:
+Code of Conduct
+Age restriction, parental consent
+Broadcasting
+Minimum Required Total Games Played
+
+Things to know for the qualifiers:
+Double Elimination 32 people Bo1, semis Bo3, finals Bo5
+Map/Legend Choice
+	Top Seed bans 3 picks first?
+	Loser chooses ban 1 or pick?
+Breaks/Broadcasting
+	notified on tournament day page
+Disqualifications
+	15 minutes
+	contact methods
+Match Restart
+	only if winner agrees to restart
+	admin may overrule any decisions
+
+
+Tournament Schedule
+3 Qualifiers, 1 Main
+Dates & Times
+sign-ups/in-progress/complete
+
+
+Tournament day
+if not signed into steam || not tournament day:
+	Steam Login+Section2(Previous Winners)
+if signed in and not tournament day:
+	Section1(Tournament Schedule + signup)
+if signed in + tournament day:
+	Show Check-in ->
+	Show Section1(Current oppenent + Room number + Report Scores/Confirm Report) +
+	Section2(All chat lobby + Lobby with opponent | Start Map Ban button)
+
+If they lose change Section1(Current Standings + twitch link if live)
+If tournament day && not signed in: Section1(Current Standings + twitch link if live)
+
+If finals: Display current standings

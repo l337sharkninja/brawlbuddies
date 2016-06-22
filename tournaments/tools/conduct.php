@@ -1,0 +1,1 @@
+<div class="info-box">This spot is reserved for explaining expectations on how people participating in the tournaments should conduct themselves.</div>

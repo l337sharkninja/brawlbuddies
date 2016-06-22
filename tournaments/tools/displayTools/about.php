@@ -1,0 +1,1 @@
+This is a short blub about Brawl King tournaments.
