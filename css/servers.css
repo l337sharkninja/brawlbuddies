@@ -1,0 +1,32 @@
+.server1_1, .server1_2, .server1_3, .server1_4, .server1_6, .server2_3, .server1_5, .server2_1, .server2_2, .server2_4, .server2_6, .server2_5, .server3_2, .server3_4, .server3_6, .server3_5, .server3_3, .server3_1 {zoom:0.50;-moz-transform:scale(0.50);-moz-transform-origin: 0 0;background: url(sprites/serversprites.png) no-repeat}
+.server1_1 {background-position: 0 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 1;}
+.server1_2 {background-position: -347px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 1;}
+.server1_3 {background-position: -694px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 1;}
+.server1_4 {background-position: -1041px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 1;}
+.server1_6 {background-position: -1388px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 1;}
+.server2_3 {background-position: -1735px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+.server1_5 {background-position: -2082px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 1;}
+.server2_1 {background-position: -2429px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+.server2_2 {background-position: -2776px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+.server2_4 {background-position: -3123px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+.server2_6 {background-position: -3470px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+.server2_5 {background-position: -3817px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+.server3_2 {background-position: -4164px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+.server3_4 {background-position: -4511px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+.server3_6 {background-position: -4858px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+.server3_5 {background-position: -5205px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+.server3_3 {background-position: -5552px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+.server3_1 {background-position: -5899px 0; width: 347px; height: 260px;position:absolute;vertical-align:bottom;margin-left:-174px;z-index: 4;}
+
+
+.server1, .server2, .server3, .server4, .server5, .server6{zoom:0.22;-moz-transform:scale(0.22);-moz-transform-origin: 0 0;background: url(sprites/serversprites.png) no-repeat}
+.server1 {background-position: 0 0; width: 347px; height: 260px;}
+.server2 {background-position: -347px 0; width: 347px; height: 260px;}
+.server3 {background-position: -694px 0; width: 347px; height: 260px;}
+.server4 {background-position: -1041px 0; width: 347px; height: 260px;}
+.server5 {background-position: -2082px 0; width: 347px; height: 260px;}
+.server6 {background-position: -1388px 0; width: 347px; height: 260px;}
+
+.server1:hover, .server2:hover, .server3:hover, .server4:hover, .server5:hover, .server6:hover{
+	opacity:.5;
+}

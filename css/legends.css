@@ -1,0 +1,148 @@
+.vra, .tha, .ter, .sen, .sca, .rol, .ori, .olg, .nai, .luc, .koj, .hat, .gna, .emb, .cas, .bry, .box, .bod, .bar, .azo, .asu, .ada {zoom:0.50;-moz-transform:scale(0.50);-moz-transform-origin: 0 0;background: url(sprites/legendsprites.png) no-repeat}
+.vra {background-position: 0 0; width: 260px; height: 260px}
+.tha {background-position: -260px 0; width: 260px; height: 260px}
+.ter {background-position: -520px 0; width: 260px; height: 260px}
+.sen {background-position: -780px 0; width: 260px; height: 260px}
+.sca {background-position: -1040px 0; width: 260px; height: 260px}
+.rol {background-position: -1300px 0; width: 260px; height: 260px}
+.ori {background-position: -1560px 0; width: 260px; height: 260px}
+.olg {background-position: -1820px 0; width: 260px; height: 260px}
+.nai {background-position: -2080px 0; width: 260px; height: 260px}
+.luc {background-position: -2340px 0; width: 260px; height: 260px}
+.koj {background-position: -2600px 0; width: 260px; height: 260px}
+.hat {background-position: -2860px 0; width: 260px; height: 260px}
+.gna {background-position: -3120px 0; width: 260px; height: 260px}
+.emb {background-position: -3380px 0; width: 260px; height: 260px}
+.cas {background-position: -3640px 0; width: 260px; height: 260px}
+.bry {background-position: -3900px 0; width: 260px; height: 260px}
+.box {background-position: -4160px 0; width: 260px; height: 260px}
+.bod {background-position: -4420px 0; width: 260px; height: 260px}
+.bar {background-position: -4680px 0; width: 260px; height: 260px}
+.azo {background-position: -4940px 0; width: 260px; height: 260px}
+.asu {background-position: -5200px 0; width: 260px; height: 260px}
+.ada {background-position: -5460px 0; width: 260px; height: 260px}
+
+.vra1, .tha1, .ter1, .sen1, .sca1, .rol1, .ori1, .olg1, .nai1, .luc1, .koj1, .hat1, .gna1, .emb1, .cas1, .bry1, .box1, .bod1, .bar1, .azo1, .asu1, .ada1 {
+	zoom:0.50;-moz-transform:scale(0.50);-moz-transform-origin: 0 0;background: url(sprites/legendsprites.png) no-repeat;
+    position: absolute;
+    vertical-align:bottom;
+	margin-left:-130px;
+	margin-top:-25px;
+	z-index: 10;}
+.vra1 {background-position: 0 0; width: 260px; height: 260px}
+.tha1 {background-position: -260px 0; width: 260px; height: 260px}
+.ter1 {background-position: -520px 0; width: 260px; height: 260px}
+.sen1 {background-position: -780px 0; width: 260px; height: 260px}
+.sca1 {background-position: -1040px 0; width: 260px; height: 260px}
+.rol1 {background-position: -1300px 0; width: 260px; height: 260px}
+.ori1 {background-position: -1560px 0; width: 260px; height: 260px}
+.olg1 {background-position: -1820px 0; width: 260px; height: 260px}
+.nai1 {background-position: -2080px 0; width: 260px; height: 260px}
+.luc1 {background-position: -2340px 0; width: 260px; height: 260px}
+.koj1 {background-position: -2600px 0; width: 260px; height: 260px}
+.hat1 {background-position: -2860px 0; width: 260px; height: 260px}
+.gna1 {background-position: -3120px 0; width: 260px; height: 260px}
+.emb1 {background-position: -3380px 0; width: 260px; height: 260px}
+.cas1 {background-position: -3640px 0; width: 260px; height: 260px}
+.bry1 {background-position: -3900px 0; width: 260px; height: 260px}
+.box1 {background-position: -4160px 0; width: 260px; height: 260px}
+.bod1 {background-position: -4420px 0; width: 260px; height: 260px}
+.bar1 {background-position: -4680px 0; width: 260px; height: 260px}
+.azo1 {background-position: -4940px 0; width: 260px; height: 260px}
+.asu1 {background-position: -5200px 0; width: 260px; height: 260px}
+.ada1 {background-position: -5460px 0; width: 260px; height: 260px}
+
+
+.box12{
+	zoom:0.50;-moz-transform:scale(0.50);-moz-transform-origin: 0 0;background: url(sprites/legendsprites.png) no-repeat;
+    position: absolute;
+    vertical-align:bottom;
+	margin-left:-130px;
+	z-index: 9;
+}
+.box12 {background-position: -4160px 0; width: 260px; height: 260px}
+
+.vra2, .tha2, .ter2, .sen2, .sca2, .rol2, .ori2, .olg2, .nai2, .luc2, .koj2, .hat2, .gna2, .emb2, .cas2, .bry2, .box2, .bod2, .bar2, .azo2, .asu2, .ada2 {
+	zoom:0.50;-moz-transform:scale(0.50);-moz-transform-origin: 0 0;background: url(sprites/legendsprites.png) no-repeat;
+    position: absolute;
+    vertical-align:bottom;
+	margin-left:-260px;
+	margin-top:-16px;
+	z-index: 5;}
+.vra2 {background-position: 0 0; width: 260px; height: 260px}
+.tha2 {background-position: -260px 0; width: 260px; height: 260px}
+.ter2 {background-position: -520px 0; width: 260px; height: 260px}
+.sen2 {background-position: -780px 0; width: 260px; height: 260px}
+.sca2 {background-position: -1040px 0; width: 260px; height: 260px}
+.rol2 {background-position: -1300px 0; width: 260px; height: 260px}
+.ori2 {background-position: -1560px 0; width: 260px; height: 260px}
+.olg2 {background-position: -1820px 0; width: 260px; height: 260px}
+.nai2 {background-position: -2080px 0; width: 260px; height: 260px}
+.luc2 {background-position: -2340px 0; width: 260px; height: 260px}
+.koj2 {background-position: -2600px 0; width: 260px; height: 260px}
+.hat2 {background-position: -2860px 0; width: 260px; height: 260px}
+.gna2 {background-position: -3120px 0; width: 260px; height: 260px}
+.emb2 {background-position: -3380px 0; width: 260px; height: 260px}
+.cas2 {background-position: -3640px 0; width: 260px; height: 260px}
+.bry2 {background-position: -3900px 0; width: 260px; height: 260px}
+.box2 {background-position: -4160px 0; width: 260px; height: 260px}
+.bod2 {background-position: -4420px 0; width: 260px; height: 260px}
+.bar2 {background-position: -4680px 0; width: 260px; height: 260px}
+.azo2 {background-position: -4940px 0; width: 260px; height: 260px}
+.asu2 {background-position: -5200px 0; width: 260px; height: 260px}
+.ada2 {background-position: -5460px 0; width: 260px; height: 260px}
+
+.vra3, .tha3, .ter3, .sen3, .sca3, .rol3, .ori3, .olg3, .nai3, .luc3, .koj3, .hat3, .gna3, .emb3, .cas3, .bry3, .box3, .bod3, .bar3, .azo3, .asu3, .ada3 {
+	zoom:0.50;-moz-transform:scale(0.50);-moz-transform-origin: 0 0;background: url(sprites/legendsprites.png) no-repeat;
+    position: absolute;
+    vertical-align:bottom;
+	margin-left:0px;
+	margin-top:-16px;
+	z-index: 1;}
+.vra3 {background-position: 0 0; width: 260px; height: 260px}
+.tha3 {background-position: -260px 0; width: 260px; height: 260px}
+.ter3 {background-position: -520px 0; width: 260px; height: 260px}
+.sen3 {background-position: -780px 0; width: 260px; height: 260px}
+.sca3 {background-position: -1040px 0; width: 260px; height: 260px}
+.rol3 {background-position: -1300px 0; width: 260px; height: 260px}
+.ori3 {background-position: -1560px 0; width: 260px; height: 260px}
+.olg3 {background-position: -1820px 0; width: 260px; height: 260px}
+.nai3 {background-position: -2080px 0; width: 260px; height: 260px}
+.luc3 {background-position: -2340px 0; width: 260px; height: 260px}
+.koj3 {background-position: -2600px 0; width: 260px; height: 260px}
+.hat3 {background-position: -2860px 0; width: 260px; height: 260px}
+.gna3 {background-position: -3120px 0; width: 260px; height: 260px}
+.emb3 {background-position: -3380px 0; width: 260px; height: 260px}
+.cas3 {background-position: -3640px 0; width: 260px; height: 260px}
+.bry3 {background-position: -3900px 0; width: 260px; height: 260px}
+.box3 {background-position: -4160px 0; width: 260px; height: 260px}
+.bod3 {background-position: -4420px 0; width: 260px; height: 260px}
+.bar3 {background-position: -4680px 0; width: 260px; height: 260px}
+.azo3 {background-position: -4940px 0; width: 260px; height: 260px}
+.asu3 {background-position: -5200px 0; width: 260px; height: 260px}
+.ada3 {background-position: -5460px 0; width: 260px; height: 260px}
+
+.vra4, .tha4, .ter4, .sen4, .sca4, .rol4, .ori4, .olg4, .nai4, .luc4, .koj4, .hat4, .gna4, .emb4, .cas4, .bry4, .box4, .bod4, .bar4, .azo4, .asu4, .ada4 {
+	zoom:0.25;-moz-transform:scale(0.25);-moz-transform-origin: 0 0;background: url(sprites/legendsprites.png) no-repeat;}
+.vra4 {background-position: 0 0; width: 260px; height: 260px}
+.tha4 {background-position: -260px 0; width: 260px; height: 260px}
+.ter4 {background-position: -520px 0; width: 260px; height: 260px}
+.sen4 {background-position: -780px 0; width: 260px; height: 260px}
+.sca4 {background-position: -1040px 0; width: 260px; height: 260px}
+.rol4 {background-position: -1300px 0; width: 260px; height: 260px}
+.ori4 {background-position: -1560px 0; width: 260px; height: 260px}
+.olg4 {background-position: -1820px 0; width: 260px; height: 260px}
+.nai4 {background-position: -2080px 0; width: 260px; height: 260px}
+.luc4 {background-position: -2340px 0; width: 260px; height: 260px}
+.koj4 {background-position: -2600px 0; width: 260px; height: 260px}
+.hat4 {background-position: -2860px 0; width: 260px; height: 260px}
+.gna4 {background-position: -3120px 0; width: 260px; height: 260px}
+.emb4 {background-position: -3380px 0; width: 260px; height: 260px}
+.cas4 {background-position: -3640px 0; width: 260px; height: 260px}
+.bry4 {background-position: -3900px 0; width: 260px; height: 260px}
+.box4 {background-position: -4160px 0; width: 260px; height: 260px}
+.bod4 {background-position: -4420px 0; width: 260px; height: 260px}
+.bar4 {background-position: -4680px 0; width: 260px; height: 260px}
+.azo4 {background-position: -4940px 0; width: 260px; height: 260px}
+.asu4 {background-position: -5200px 0; width: 260px; height: 260px}
+.ada4 {background-position: -5460px 0; width: 260px; height: 260px}

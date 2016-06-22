@@ -1,0 +1,12 @@
+.img10, .img9, .img8, .img7, .img6, .img5, .img4, .img3, .img2, .img1, .img0 {background: url(sprites/realmsprites.jpg) no-repeat}
+.img10 {background-position: 0 0; width: 960px; height: 540px}
+.img9 {background-position: -960px 0; width: 960px; height: 540px}
+.img8 {background-position: -1920px 0; width: 960px; height: 540px}
+.img7 {background-position: -2880px 0; width: 960px; height: 540px}
+.img6 {background-position: -3840px 0; width: 960px; height: 540px}
+.img5 {background-position: -4800px 0; width: 960px; height: 540px}
+.img4 {background-position: -5760px 0; width: 960px; height: 540px}
+.img3 {background-position: -6720px 0; width: 960px; height: 540px}
+.img2 {background-position: -7680px 0; width: 960px; height: 540px}
+.img1 {background-position: -8640px 0; width: 960px; height: 540px}
+.img0 {background-position: -9600px 0; width: 960px; height: 540px}

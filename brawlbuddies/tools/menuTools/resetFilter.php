@@ -1,0 +1,15 @@
+<?php
+if(!isset($_SESSION)) 
+{ 
+	session_start(); 
+}
+$_SESSION['searchFlags']['legend']=0;
+$_SESSION['searchFlags']['server']=0;
+$_SESSION['searchFlags']['eloMin']=0;
+$_SESSION['searchFlags']['eloMax']=0;
+$_SESSION['searchFlags']['spar']='checked';
+$_SESSION['searchFlags']['duo']='checked';
+$_SESSION['searchFlags']['ffa']='checked';
+$_SESSION['searchFlags']['teamspar']='checked';
+$_SESSION['searchFlags']['custom']='checked';
+?>

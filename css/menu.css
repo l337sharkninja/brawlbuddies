@@ -1,0 +1,63 @@
+.home {
+background: url(sprites/menusprites.png) no-repeat;
+background-position: -5373px 0; width: 1063px; height: 109px;
+zoom:0.38;
+-moz-transform:scale(0.38);
+-moz-transform-origin: 0 0;}
+.home:hover{background-position: -4310px 0; width: 1063px; height: 109px}
+
+.brawlbuddies {
+background: url(sprites/menusprites.png) no-repeat;
+background-position: -17632px 0; width: 1040px; height: 90px;
+zoom:0.22;
+-moz-transform:scale(0.22);
+-moz-transform-origin: 0 0;}
+.brawlbuddies:hover{background-position: -16592px 0; width: 1040px; height: 90px}
+
+.guides {
+background: url(sprites/menusprites.png) no-repeat;
+background-position: -13989px 0; width: 1283px; height: 90px;
+zoom:0.22;
+-moz-transform:scale(0.22);
+-moz-transform-origin: 0 0;}
+.guides:hover{background-position: -12706px 0; width: 1283px; height: 90px}
+
+.streams {
+background: url(sprites/menusprites.png) no-repeat;
+background-position: -1164px 0; width: 1164px; height: 90px;
+zoom:0.22;
+-moz-transform:scale(0.22);
+-moz-transform-origin: 0 0;}
+.streams:hover{background-position: 0 0; width: 1164px; height: 90px}
+
+.tournaments {
+background: url(sprites/menusprites.png) no-repeat;
+background-position: -3319px 0; width: 991px; height: 90px;
+zoom:0.22;
+-moz-transform:scale(0.22);
+-moz-transform-origin: 0 0;}
+.tournaments:hover{background-position: -2328px 0; width: 991px; height: 90px}
+
+.resources {
+background: url(sprites/menusprites.png) no-repeat;
+background-position: -8648px 0; width: 1245px; height: 90px;
+zoom:0.22;
+-moz-transform:scale(0.22);
+-moz-transform-origin: 0 0;}
+.resources:hover{background-position: -9893px 0; width: 1245px; height: 90px}
+
+.library {
+background: url(sprites/menusprites.png) no-repeat;
+background-position: -11922px 0; width: 784px; height: 90px;
+zoom:0.22;
+-moz-transform:scale(0.22);
+-moz-transform-origin: 0 0;}
+.library:hover{background-position: -11138px 0; width: 784px; height: 90px}
+
+.special {
+background: url(sprites/menusprites.png) no-repeat;
+background-position: -7542px 0; width: 1106px; height: 90px;
+zoom:0.22;
+-moz-transform:scale(0.22);
+-moz-transform-origin: 0 0;}
+.special:hover{background-position: -6436px 0; width: 1106px; height: 90px}

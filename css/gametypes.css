@@ -1,0 +1,7 @@
+.teamspar, .spar, .ffa, .duo, .custom {background: url(sprites/gametypesprites.png) no-repeat;
+	zoom:0.25;-moz-transform:scale(0.25);-moz-transform-origin: 0 0;}
+.teamspar {background-position: 0 0; width: 322px; height: 166px}
+.spar {background-position: -322px 0; width: 322px; height: 166px}
+.ffa {background-position: -644px 0; width: 322px; height: 166px}
+.duo {background-position: -966px 0; width: 322px; height: 166px}
+.custom {background-position: -1288px 0; width: 322px; height: 166px}

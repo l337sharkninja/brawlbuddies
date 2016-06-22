@@ -1,0 +1,28 @@
+<?php
+if(!isset($_SESSION)) 
+{ 
+	session_start(); 
+}
+
+if($_POST['item1']==1){$_SESSION['searchFlags']['legend']=intval($_POST['item2']);}
+if($_POST['item1']==2){
+	$_SESSION['searchFlags']['spar']='unchecked';
+	$_SESSION['searchFlags']['duo']='unchecked';
+	$_SESSION['searchFlags']['ffa']='unchecked';
+	$_SESSION['searchFlags']['teamspar']='unchecked';
+	$_SESSION['searchFlags']['custom']='unchecked';
+	if($_POST['item2']==1){$_SESSION['searchFlags']['spar']='checked';}
+	if($_POST['item2']==2){$_SESSION['searchFlags']['ffa']='checked';}
+	if($_POST['item2']==3){$_SESSION['searchFlags']['duo']='checked';}
+	if($_POST['item2']==4){$_SESSION['searchFlags']['teamspar']='checked';}
+	if($_POST['item2']==5){$_SESSION['searchFlags']['custom']='checked';}
+}
+if($_POST['item1']==3){$_SESSION['searchFlags']['server']=$_POST['item2'];}
+if($_POST['item1']==4){
+	if($_POST['item2']==0){
+	$_SESSION['searchFlags']['eloMin']=0;
+	$_SESSION['searchFlags']['eloMax']=0;}else{
+	$_SESSION['searchFlags']['eloMin']=intval($_POST['item2']);
+	$_SESSION['searchFlags']['eloMax']=intval($_POST['item3']);}
+}
+?>

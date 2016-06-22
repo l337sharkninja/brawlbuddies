@@ -1,0 +1,68 @@
+/*
+.youtube_ex, .rightarrow2, .rightarrow, .plus12, .plus1, .homeimg2, .homeimg, .guidearrow2, .guidearrow, .downarrow2, .downarrow, .check, .backimg2, .backimg {background: url(sprites/buttonsprites.png) no-repeat}
+.youtube_ex {background-position: 0 0; width: 1823px; height: 105px}
+.rightarrow2 {background-position: -1823px 0; width: 373px; height: 738px}
+.rightarrow {background-position: -2196px 0; width: 373px; height: 738px}
+.plus12 {background-position: -2569px 0; width: 502px; height: 365px}
+.plus1 {background-position: -3071px 0; width: 502px; height: 365px}
+.homeimg2 {background-position: -3573px 0; width: 498px; height: 330px}
+.homeimg {background-position: -4071px 0; width: 498px; height: 330px}
+.guidearrow2 {background-position: -4569px 0; width: 351px; height: 383px}
+.guidearrow {background-position: -4920px 0; width: 351px; height: 383px}
+.downarrow2 {background-position: -5271px 0; width: 596px; height: 254px}
+.downarrow {background-position: -5867px 0; width: 607px; height: 265px}
+.check {background-position: -6474px 0; width: 600px; height: 556px}
+.backimg2 {background-position: -7074px 0; width: 369px; height: 488px}
+.backimg {background-position: -7443px 0; width: 369px; height: 488px}
+*/
+.left-arrow{
+	background: url(sprites/buttonsprites.png) no-repeat;
+	background-position: -1823px 0; width: 373px; height: 738px;
+	zoom:0.25;-moz-transform:scale(0.25);-moz-transform-origin: 0 0;
+    position: relative;
+	left:15px;
+	top:50%;
+	padding:none;
+	-moz-transform: scaleX(-1);
+	-o-transform: scaleX(-1);
+	-webkit-transform: scaleX(-1);
+	transform: scaleX(-1);
+	filter: FlipH;
+	-ms-filter: "FlipH";
+}
+.left-arrow:hover{
+	background-position: -2196px 0; width: 373px; height: 738px;
+	cursor:pointer;
+}
+
+
+.right-arrow{
+	background: url(sprites/buttonsprites.png) no-repeat;
+	background-position: -1823px 0; width: 373px; height: 738px;
+	zoom:0.25;-moz-transform:scale(0.25);-moz-transform-origin: 0 0;
+	padding:none;
+}
+.right-arrow:hover{
+	background-position: -2196px 0; width: 373px; height: 738px;
+	cursor:pointer;
+}
+
+
+.down-arrow{
+	background: url(sprites/buttonsprites.png) no-repeat;
+	background-position: -5271px 0; width: 596px; height: 254px;
+	zoom:0.25;-moz-transform:scale(0.25);-moz-transform-origin: 0 0;
+	margin:15px
+}
+.down-arrow:hover{
+	background-position: -5867px 0; width: 607px; height: 265px;
+	cursor:pointer;
+}
+.up-arrow{
+	-moz-transform: scaleY(-1);
+	-o-transform: scaleY(-1);
+	-webkit-transform: scaleY(-1);
+	transform: scaleY(-1);
+	filter: FlipV;
+	-ms-filter: "FlipV";
+}

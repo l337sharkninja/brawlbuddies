@@ -1,0 +1,9 @@
+.swo, .spe, .lan, .kat, .ham, .bow, .bla, .axe {zoom:0.50;-moz-transform:scale(0.50);-moz-transform-origin: 0 0;background: url(sprites/weaponsprites.png) no-repeat}
+.swo {background-position: 0 0; width: 260px; height: 260px}
+.spe {background-position: -260px 0; width: 260px; height: 260px}
+.lan {background-position: -520px 0; width: 260px; height: 260px}
+.kat {background-position: -780px 0; width: 260px; height: 260px}
+.ham {background-position: -1040px 0; width: 260px; height: 260px}
+.bow {background-position: -1300px 0; width: 260px; height: 260px}
+.bla {background-position: -1560px 0; width: 260px; height: 260px}
+.axe {background-position: -1820px 0; width: 260px; height: 260px}
